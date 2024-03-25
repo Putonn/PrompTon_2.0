@@ -1,3 +1,6 @@
+// Menghapus semua data dari Local Storage saat aplikasi dimulai
+localStorage.clear();
+
 /**
  * TelePrompter v1.2.2 - Browser-based TelePrompter with Remote Control
  * (c) 2023 Peter Schmalfeldt
